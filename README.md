@@ -1,4 +1,4 @@
-![MasterHead](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif)
+![MasterHead]([https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif](https://thumbs.gfycat.com/AlarmingGloomyHoneycreeper-max-1mb.gif))
 <h1 align="center">Hi 👋, I'm Rankush vishwakarma</h1>
 <h3 align="center">A passionate self-learned data scientist from India.</h3>
 <img align="right" alt="Machine learning" width = "400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
