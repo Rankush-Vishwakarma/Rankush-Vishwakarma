@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rankush.vishwakarma46@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/bFHP2](shorturl.at/bFHP2)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1gFilosdNg6wWEuNFbaDKFqD8JISCA7wPOGy2RuAloeM/edit?usp=sharing](https://docs.google.com/document/d/1gFilosdNg6wWEuNFbaDKFqD8JISCA7wPOGy2RuAloeM/edit?usp=sharing)
 
 - ⚡ Fun fact **I love teaching and helping people.**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rankush888" alt="rankush888" /></a> </p>
