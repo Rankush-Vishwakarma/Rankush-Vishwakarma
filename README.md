@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Jarvis V 2.0**
 
-- 🌱 I’m currently learning **big data**
+- 🌱 I’m currently learning **machine learning specialization from coursera**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
