@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rankush vishwakarma</h1>
 <h3 align="center">A passionate self-learned data scientist from India.</h3>
 <img align="right" alt="Machine learning" width = "400" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rankush888&label=Profile%20views&color=0e75b6&style=flat" alt="rankush888" /> </p>
 
 - 🔭 I’m currently working on **Jarvis V 2.0**
 
