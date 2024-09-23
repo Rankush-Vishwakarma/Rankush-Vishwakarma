@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Rankush
 Analyst 1 Software Engineer @ DXC Technology | Data Engineer | Aspiring Data Scientist
 
