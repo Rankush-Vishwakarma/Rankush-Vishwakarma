@@ -1,5 +1,5 @@
 👋 Hi, I'm Rankush
-Analyst 1 Software Engineer @ DXC Technology | Data Engineer | Aspiring Data Scientist
+Analyst 1 Software Engineer @ DXC Technology | Data Engineer | Aspiring Data Scientist | Instructor | philanthropist 
 
 About Me
 I'm a passionate software engineer with a focus on data engineering and a keen interest in the field of data science. Currently, I’m working on building AceInterview, a platform designed to help users prepare and warm up for their next tech interview. My journey in tech has been driven by a love for solving complex problems and a dedication to continuous learning.
