@@ -14,11 +14,10 @@ I'm actively seeking collaboration opportunities in data science. If you’re wo
 
 Skills & Expertise
 
-Programming Languages: Python, SQL, [mention any other relevant languages]
+Programming Languages: Python, SQL.
 Data Engineering: ETL processes, data pipelines, data warehousing
 Machine Learning: Linear regression, logistic regression, classification, clustering
-Tools & Technologies: [List relevant tools such as TensorFlow, PyTorch, Scikit-learn, etc.]
-Frameworks & Libraries: [List frameworks and libraries you are proficient in]
+Tools & Technologies: Scikit-learn
 Let's Connect!
 I'm always open to discussing new ideas, learning opportunities, or potential collaborations. Feel free to reach out through LinkedIn/GitHub, and let’s build something amazing together!
 
