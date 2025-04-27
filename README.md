@@ -52,4 +52,4 @@ I'm always open to discussing new ideas, learning opportunities, or potential co
 [![](https://visitcount.itsvg.in/api?id=Rankush-Vishwakarma&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=Rankush-Vishwakarma)
