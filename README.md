@@ -19,11 +19,7 @@ I founded and single-handedly developed AceInterview.in, from backend to fronten
 AceInterview is a full-fledged, AI-powered platform designed to revolutionize technical interview preparation.
 Built single-handedly from scratch, AceInterview blends machine learning, natural language processing (NLP), and software engineering to deliver a smarter, more personalized interview prep experience.
 
-Let's Connect!
-I'm always open to discussing new ideas, learning opportunities, or potential collaborations. Feel free to reach out through LinkedIn/GitHub, and let’s build something amazing together!
 🌟 Features
-
-Module	Description
 🧠 AI-Powered Q&A	 - Practice with AI-generated questions, respond via voice or text, and receive instant scoring with feedback.
 🔍 AI Problem Analyzer	Analyze -  LeetCode (or any coding) problems instantly — get detailed AI-driven solutions and strategies.
 🎯 AI Candidate Simulator	- Upload your resume and job description to simulate a real interview tailored to your profile.
@@ -38,6 +34,8 @@ Crafted a user-centric, mobile-responsive UI to ensure a smooth experience.
 Deployed the application, ensuring high availability and performance.
 
 
+Let's Connect!
+I'm always open to discussing new ideas, learning opportunities, or potential collaborations. Feel free to reach out through LinkedIn/GitHub, and let’s build something amazing together!
 
 
 ## 🌐 Socials:
