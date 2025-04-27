@@ -1,27 +1,43 @@
-👋 Hi, I'm Rankush
-Analyst 1 Software Engineer @ DXC Technology | Data Engineer | Aspiring Data Scientist | Instructor | philanthropist 
+👋 Hi, I'm Rankush Vishwakarma
 
-About Me
-I'm a passionate software engineer with a focus on data engineering and a keen interest in the field of data science. Currently, I’m working on building AceInterview, a platform designed to help users prepare and warm up for their next tech interview. My journey in tech has been driven by a love for solving complex problems and a dedication to continuous learning.
 
-Current Focus
+🚀 About Me
+I'm a passionate Software Engineer specializing in Data Engineering, AI, and Machine Learning.
+Currently building AceInterview.in — a dynamic platform helping users prepare, warm up, and excel in technical interviews.
 
-Building AceInterview: Crafting an interactive platform for interview preparation, focusing on creating an engaging and effective learning experience.
-Data Science & Machine Learning: Deepening my understanding of data science, including linear regression, logistic regression, and the fundamentals of machine learning algorithms.
-Learning LLM and Deep Learning: Exploring large language models (LLMs) and deep learning techniques to broaden my knowledge and apply them to real-world problems.
-Looking for Collaboration
-I'm actively seeking collaboration opportunities in data science. If you’re working on exciting projects in this space or need a passionate collaborator for a data-driven initiative, I’d love to connect!
-
-Skills & Expertise
+🛠️ Skills & Expertise
 
 Programming Languages: Python, SQL.
-Data Engineering: ETL processes, data pipelines, data warehousing
-Machine Learning: Linear regression, logistic regression, classification, clustering
+Data Engineering: ETL processes, data pipelines, data warehousing, data modelling
+Machine Learning: Linear regression, logistic regression, classification, clustering and others
 Tools & Technologies: Scikit-learn
+Areas of Interest: NLP, LLMs, Deep Learning
+
+🌟 Project Spotlight: AceInterview.in
+🚀 Visit AceInterview [[!www.aceinterview.in](https://www.aceinterview.in/)]
+I founded and single-handedly developed AceInterview.in, from backend to frontend, to help candidates level up their interview skills.
+AceInterview is a full-fledged, AI-powered platform designed to revolutionize technical interview preparation.
+Built single-handedly from scratch, AceInterview blends machine learning, natural language processing (NLP), and software engineering to deliver a smarter, more personalized interview prep experience.
+
 Let's Connect!
 I'm always open to discussing new ideas, learning opportunities, or potential collaborations. Feel free to reach out through LinkedIn/GitHub, and let’s build something amazing together!
+🌟 Features
 
+Module	Description
+🧠 AI-Powered Q&A	 - Practice with AI-generated questions, respond via voice or text, and receive instant scoring with feedback.
+🔍 AI Problem Analyzer	Analyze -  LeetCode (or any coding) problems instantly — get detailed AI-driven solutions and strategies.
+🎯 AI Candidate Simulator	- Upload your resume and job description to simulate a real interview tailored to your profile.
+📚 Interview Practice Tool	- Practice customized questions aligned with your career goals and skillsets.
+📝 Resume Analysis Tool - 	Get AI-based resume suggestions, keyword optimizations, and shortlist probability scores.
  
+🎯 What I Built
+Designed and developed both frontend and backend architecture.
+Integrated AI models for Q&A generation, problem analysis, and resume evaluation.
+Implemented real-time voice-to-text interaction for answering interview questions.
+Crafted a user-centric, mobile-responsive UI to ensure a smooth experience.
+Deployed the application, ensuring high availability and performance.
+
+
 
 
 ## 🌐 Socials:
